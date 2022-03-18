@@ -7,7 +7,6 @@ int main() {
   d1 = 0;
   for(d=0;d<=a;d=d+1){
   	d1=d1+d;
-  	if(a<=0;a++)
   } 
   e1=1;
   e2=0;
